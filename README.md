@@ -113,8 +113,9 @@ Acredito na tecnologia como ferramenta de transformação. Estou sempre aprenden
   <img src="https://img.shields.io/badge/Cypress-%2300C2A9?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress" style="height:30px;padding-right:10px;" />
   <img src="https://img.shields.io/badge/AJAX-%23232F3E?style=for-the-badge&logo=axios&logoColor=white" title="AJAX" alt="AJAX" style="height:30px;padding-right:10px;" />
   <img src="https://img.shields.io/badge/Algoritmos-%23f4f4f4.svg?style=for-the-badge&logo=code&logoColor=black" title="Algoritmos" alt="Algoritmos" style="height:30px;padding-right:10px;" />
-  <img src="https://img.shields.io/badge/Microsserviços-%2300c2cb.svg?style=for-the-badge&logo=stackshare&logoColor=white" title="Microsserviços" alt="Microsserviços" style="height:30px;padding-right:10px;" />
+  <img src="https://img.shields.io/badge/Microsservi%C3%A7os-%2300c2cb.svg?style=for-the-badge&logo=stackshare&logoColor=white" title="Microsserviços" alt="Microsserviços" style="height:30px;padding-right:10px;" />
   <img src="https://img.shields.io/badge/BEM-Methodology-%230088cc?style=for-the-badge&logo=css3&logoColor=white" title="BEM" alt="BEM" style="height:30px;padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30px" style="padding-right:10px;" />
 </p>
 
 ---
